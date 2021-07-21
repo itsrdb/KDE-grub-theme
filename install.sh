@@ -1,4 +1,5 @@
 #! /usr/bin/env bash
+# Special thanks to shvchk
 
 THEME='KDE-grub-theme'
 LANG='English'
